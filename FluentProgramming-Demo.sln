@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27703.2035
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FluentProgramming-Demo", "FluentProgramming-Demo\FluentProgramming-Demo.csproj", "{F55117B6-805C-4F07-9319-D1ECD84EDE7B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F55117B6-805C-4F07-9319-D1ECD84EDE7B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F55117B6-805C-4F07-9319-D1ECD84EDE7B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F55117B6-805C-4F07-9319-D1ECD84EDE7B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F55117B6-805C-4F07-9319-D1ECD84EDE7B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4FE21729-6FB6-493E-923C-835BAF964C3D}
+	EndGlobalSection
+EndGlobal
